@@ -1,6 +1,4 @@
-# Shrimp Farming Analytics and Prediction System
-
-Sistem analitik dan prediksi untuk budidaya udang menggunakan machine learning. Proyek ini mencakup analisis data, pemodelan prediktif, dan deployment API.
+# JALA Data Scientist Take Home Test
 
 ## Tahapan Proyek
 
