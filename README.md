@@ -143,14 +143,6 @@ print(response.json())
 - MAE: 0.15
 - RMSE: 0.22
 
-## Kontribusi
-
-1. Fork repository
-2. Buat branch baru (`git checkout -b feature/improvement`)
-3. Commit perubahan (`git commit -am 'Add new feature'`)
-4. Push ke branch (`git push origin feature/improvement`)
-5. Buat Pull Request
-
 ## Lisensi
 
 MIT License - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
