@@ -38,18 +38,21 @@
 
 ## Struktur Project
 ```
-shrimp-farming-analytics/
-├── data/                    # Data mentah dan processed
-├── models/                  # Model yang telah dilatih
-├── notebooks/              # Jupyter notebooks untuk analisis
-├── src/                    # Source code
-│   ├── preprocessing/     # Script preprocessing
-│   ├── modeling/         # Script modeling
-│   └── api/              # API implementation
-├── tests/                 # Unit tests
-├── main.py               # FastAPI application
-├── requirements.txt      # Dependencies
-└── README.md            # Dokumentasi
+JALA-Data-Scientist-Take-Home-Test/
+├── .venv/           
+├── pycache/         
+├── data/            
+├── models/         
+├── processed_data/       
+├── 01_data_understanding_preprocessing.ipynb
+├── 02_predictive_modeling.ipynb
+├── 03_deployment_api.ipynb
+├── main.py 
+├── predictive_modeling.py 
+├── preprocessing.py 
+├── test_api.py 
+├── requirements.txt 
+└── README.md 
 ```
 
 ## Instalasi
@@ -154,4 +157,4 @@ MIT License - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
 
 ## Kontak
 
-JALA Tech - info@jala.tech 
+Muhammad Arfian Praniza - fianpraniza@gmail.com 
